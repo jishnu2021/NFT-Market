@@ -1,0 +1,46 @@
+ .strailine{
+    border:  2px solid rgb(114, 0, 114);
+    margin: 10px;
+    margin-top: 4rem;
+    max-width: 88rem;
+    margin-left: 40px;
+}
+.strail{
+    border:  2px solid rgb(114, 0, 114);
+    
+}
+
+.panel4 h3{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding-top: 4rem;
+   
+}
+
+.panel4 span{
+    font-size: 15px;
+    color: whitesmoke;
+    
+}
+
+.searchbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.searchbox input{
+    padding: 10px;
+    width: 40%;
+    border-radius: 15px;
+}
+
+.searchbox button{
+    background-color: rgb(134, 92, 172);
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 15px;
+}  
