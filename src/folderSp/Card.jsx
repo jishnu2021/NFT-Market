@@ -4,7 +4,7 @@ import './Card.css'
 const Card = () => {
   return (
     <>
-w
+
 <div className="cardsection">
 <div className="boxborder">
 <div class="card">

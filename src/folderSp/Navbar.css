@@ -19,10 +19,10 @@
     padding:10px;
     /* border: 2px solid red; */
     border-radius: 30px;
-    background-color: green;
+    background-color: rgb(120, 120, 120);
 }
 .wallet button{
-    background-color: green;
+    background-color: rgb(120, 120, 120);
     border: none;
 }
 
